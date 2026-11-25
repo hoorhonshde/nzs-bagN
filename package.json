@@ -1,0 +1,14 @@
+{
+  "name": "hospital-appointment-system",
+  "version": "1.0.0",
+  "description": "Эмнэлгийн цаг захиалгын систем (SAD236, Лаборатори 12)",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}
